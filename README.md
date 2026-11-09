@@ -49,7 +49,7 @@ Work in progress. I'm building it as my first game project.
 |---|---|
 | Languages | HTML, Python, GDScript |
 | Game Engine | Godot |
-| Graphics | Paint.NET |
+| Graphics | Paint.NET, Blender |
 | Other | Git, GitHub |
 
 ---
